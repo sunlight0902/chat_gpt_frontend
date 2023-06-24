@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "commonjs",
+        "baseUrl": "src"
+    },
+    "include": ["src/**/*", "src/contexts/L/Loader.js"],
+    "exclude": ["node_modules"]
+}
